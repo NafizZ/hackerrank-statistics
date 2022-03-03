@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586294796 source:e:\codeblocks projects\hackerrank_stat_day-0-1\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<map>
+	<algorithm>
+
